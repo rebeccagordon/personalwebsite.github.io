@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #2e3842;
+		background: #000000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1949,7 +1949,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #2e3842;
+			background: #000000;
 			color: #fff;
 			content: '\f00c';
 		}
@@ -3180,7 +3180,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style5 label {
-				color: #2E3842;
+				color: #000000;
 			}
 
 			.wrapper.style5 input[type="text"],
@@ -3215,7 +3215,7 @@ input, select, textarea {
 
 			.wrapper.style5 input[type="checkbox"]:checked + label:before,
 			.wrapper.style5 input[type="radio"]:checked + label:before {
-				background: #2E3842;
+				background: #000000;
 				color: #ffffff;
 			}
 
@@ -3256,7 +3256,7 @@ input, select, textarea {
 				}
 
 			.wrapper.style5 table th {
-				color: #2E3842;
+				color: #000000;
 			}
 
 			.wrapper.style5 table thead {
@@ -3277,7 +3277,7 @@ input, select, textarea {
 			.wrapper.style5 button,
 			.wrapper.style5 .button {
 				box-shadow: inset 0 0 0 2px #dfdfdf;
-				color: #2E3842;
+				color: #000000;
 			}
 
 				.wrapper.style5 input[type="submit"]:hover,
@@ -3448,7 +3448,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #000000;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3697,7 +3697,7 @@ input, select, textarea {
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			background: #000000;
 			display: block;
 			width: 100%;
 			height: 100%;
