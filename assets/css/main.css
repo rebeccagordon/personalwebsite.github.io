@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00000;
+				color: #000000;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2703,43 +2703,43 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(5) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(6) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(7) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(8) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(9) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlight:nth-child(10) {
-			background-color: rgba(0, 0, 0, 0);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #00000;
+			background-color: #000000;
 			color: #fffff;
 		}
 
@@ -2976,11 +2976,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #00000;
+			background-color: #000000;
 		}
 
 		.wrapper.style3 {
-			background-color: #00000;
+			background-color: #000000;
 			color: #d3d4e4;
 		}
 
@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: #00000;
+					background: #000000;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3050,7 +3050,7 @@ input, select, textarea {
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #00000;
+				color: #000000;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
@@ -3148,11 +3148,11 @@ input, select, textarea {
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #00000;
+				color: #000000;
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-				color: #00000;
+				color: #000000;
 			}
 
 			.wrapper.style5 hr {
@@ -3199,7 +3199,7 @@ input, select, textarea {
 
 
 .style5 select option {
-					color: #00000;
+					color: #000000;
 					background: #ffffff;
 				}
 
